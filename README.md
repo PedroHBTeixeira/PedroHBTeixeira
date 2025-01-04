@@ -31,12 +31,10 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=PedroHBTeixeira&show_icons=true&theme=tokyonight&inlcude_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHBTeixeira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHBTeixeira&theme=tokyonight&layout=compact&custom_title=Tecnologias&" 
   />
-
 </p>
